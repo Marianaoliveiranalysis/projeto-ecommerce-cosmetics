@@ -1,0 +1,201 @@
+cliente,categoria,valor,forma_pagamento,data_transacao,cidade,score_satisfacao,cashback,status
+C082,Sérum,22.53,Cartão,2025-07-01,Braga,5,2.73,entregue
+C035,Sabonete,54.87,Boleto,2025-06-05,Lisboa,4,3.53,em trânsito
+C024,Tônico,45.05,PayPal,2025-06-05,Lisboa,9,2.3,entregue
+C047,Hidratante,20.8,PayPal,2025-06-25,Lisboa,7,2.43,entregue
+C084,Sérum,46.05,Pix,2025-06-24,Braga,7,3.89,em trânsito
+C028,Tônico,73.21,Boleto,2025-06-10,Porto,5,5.5,entregue
+C003,Sérum,49.34,Boleto,2025-06-13,Braga,3,6.92,cancelado
+C012,Sabonete,58.89,Cartão,2025-06-10,Porto,8,4.86,em trânsito
+C093,Tônico,52.98,PayPal,2025-06-29,Braga,3,4.25,em trânsito
+C048,Hidratante,31.72,PayPal,2025-06-19,Braga,6,1.66,cancelado
+C066,Protetor,47.28,Pix,2025-06-24,Porto,5,6.1,cancelado
+C023,Protetor,16.24,Cartão,2025-06-14,Lisboa,8,1.43,entregue
+C095,Hidratante,22.71,PayPal,2025-06-02,Braga,10,2.14,entregue
+C095,Hidratante,55.28,Boleto,2025-06-27,Faro,10,5.42,entregue
+C008,Tônico,64.29,Boleto,2025-06-20,Coimbra,1,5.51,cancelado
+C019,Protetor,45.96,Pix,2025-06-17,Braga,6,4.04,entregue
+C033,Hidratante,65.05,Cartão,2025-06-28,Porto,2,6.65,cancelado
+C074,Sérum,73.43,Boleto,2025-06-29,Braga,5,4.45,em trânsito
+C068,Tônico,21.96,PayPal,2025-06-17,Coimbra,8,2.52,entregue
+C010,Tônico,67.86,Cartão,2025-06-09,Braga,9,9.27,em trânsito
+C017,Tônico,66.49,Boleto,2025-06-21,Faro,10,4.03,em trânsito
+C019,Sérum,58.32,Boleto,2025-06-05,Lisboa,6,6.39,entregue
+C057,Sabonete,44.81,Cartão,2025-07-01,Porto,4,5.91,cancelado
+C034,Protetor,24.89,PayPal,2025-06-07,Braga,10,3.57,entregue
+C035,Protetor,74.98,Cartão,2025-06-01,Lisboa,5,6.46,em trânsito
+C038,Sabonete,55.87,Cartão,2025-06-28,Coimbra,4,4.1,entregue
+C027,Protetor,62.82,Boleto,2025-06-26,Braga,4,5.2,cancelado
+C074,Protetor,34.27,Boleto,2025-07-01,Porto,3,5.07,em trânsito
+C018,Sabonete,31.17,Pix,2025-06-05,Braga,10,4.63,entregue
+C059,Protetor,69.35,Pix,2025-06-07,Porto,8,4.55,cancelado
+C067,Hidratante,55.41,Cartão,2025-06-07,Faro,7,5.73,cancelado
+C059,Sabonete,25.01,Pix,2025-06-11,Porto,5,2.84,entregue
+C004,Sérum,51.94,Cartão,2025-06-27,Porto,1,6.17,cancelado
+C066,Tônico,53.51,Boleto,2025-06-21,Lisboa,10,5.01,entregue
+C002,Sérum,37.25,Cartão,2025-06-08,Coimbra,7,4.61,entregue
+C019,Hidratante,24.33,Pix,2025-06-20,Porto,7,3.02,em trânsito
+C044,Hidratante,51.36,PayPal,2025-06-22,Coimbra,6,3.14,entregue
+C083,Sérum,23.63,Cartão,2025-06-30,Faro,5,1.8,entregue
+C092,Tônico,38.5,Cartão,2025-06-20,Braga,10,2.96,em trânsito
+C028,Sérum,69.17,Cartão,2025-06-09,Coimbra,9,9.57,cancelado
+C079,Sabonete,54.51,Cartão,2025-06-21,Porto,0,8.09,em trânsito
+C013,Hidratante,42.9,Boleto,2025-06-05,Faro,6,5.24,cancelado
+C014,Hidratante,60.78,PayPal,2025-06-02,Faro,10,6.34,entregue
+C082,Sérum,65.69,PayPal,2025-06-27,Lisboa,4,4.03,entregue
+C060,Sabonete,22.85,Cartão,2025-06-18,Coimbra,10,3.24,em trânsito
+C022,Hidratante,23.62,Cartão,2025-06-02,Lisboa,7,2.6,cancelado
+C001,Protetor,24.85,Pix,2025-06-27,Lisboa,5,1.98,em trânsito
+C033,Sabonete,24.65,Cartão,2025-06-20,Faro,3,2.0,cancelado
+C053,Protetor,24.77,Pix,2025-06-07,Braga,1,1.73,cancelado
+C015,Sérum,68.97,Pix,2025-06-30,Faro,6,5.76,em trânsito
+C034,Tônico,22.06,Boleto,2025-06-08,Braga,5,2.92,cancelado
+C033,Hidratante,39.42,Boleto,2025-06-26,Faro,3,4.03,cancelado
+C014,Tônico,71.76,Cartão,2025-06-22,Porto,5,9.88,em trânsito
+C060,Protetor,35.46,Cartão,2025-06-03,Faro,9,2.88,em trânsito
+C051,Tônico,78.07,Pix,2025-06-18,Porto,10,9.67,em trânsito
+C097,Sabonete,16.57,Cartão,2025-06-16,Lisboa,6,0.97,em trânsito
+C098,Hidratante,53.35,Pix,2025-06-09,Braga,1,4.4,cancelado
+C031,Protetor,16.78,Boleto,2025-06-05,Faro,6,0.94,em trânsito
+C037,Sérum,71.7,PayPal,2025-06-18,Porto,3,8.56,entregue
+C038,Sérum,23.7,PayPal,2025-06-22,Coimbra,7,1.85,entregue
+C025,Sérum,52.1,Boleto,2025-06-25,Braga,8,6.03,cancelado
+C077,Tônico,21.26,Cartão,2025-06-02,Porto,4,1.74,em trânsito
+C063,Hidratante,63.33,Pix,2025-06-03,Lisboa,7,6.99,cancelado
+C048,Sabonete,23.89,Pix,2025-06-24,Lisboa,5,2.45,cancelado
+C042,Sérum,42.87,PayPal,2025-06-10,Coimbra,7,2.45,em trânsito
+C096,Hidratante,70.82,Cartão,2025-06-10,Braga,1,5.72,em trânsito
+C071,Sérum,79.98,Boleto,2025-06-17,Braga,9,7.04,entregue
+C057,Tônico,16.75,Cartão,2025-06-12,Braga,1,1.85,entregue
+C071,Sérum,56.44,Pix,2025-06-18,Faro,7,4.4,cancelado
+C077,Sabonete,59.18,Boleto,2025-06-27,Lisboa,3,8.3,cancelado
+C009,Protetor,16.54,PayPal,2025-06-01,Porto,8,1.85,em trânsito
+C008,Tônico,39.31,Boleto,2025-06-09,Faro,3,5.89,em trânsito
+C049,Protetor,21.49,Cartão,2025-06-24,Lisboa,10,2.59,cancelado
+C089,Sabonete,67.98,PayPal,2025-06-14,Lisboa,0,9.0,cancelado
+C091,Protetor,32.61,Cartão,2025-06-01,Faro,7,2.76,em trânsito
+C027,Hidratante,63.91,Boleto,2025-06-25,Coimbra,6,8.93,cancelado
+C040,Tônico,48.9,Cartão,2025-06-30,Braga,9,3.13,cancelado
+C095,Hidratante,26.27,PayPal,2025-06-12,Faro,7,3.93,cancelado
+C031,Hidratante,74.7,Cartão,2025-06-27,Lisboa,1,9.44,entregue
+C043,Tônico,62.13,PayPal,2025-06-03,Lisboa,7,5.57,cancelado
+C036,Tônico,57.83,PayPal,2025-06-05,Coimbra,7,7.29,entregue
+C100,Sabonete,77.57,Cartão,2025-06-24,Faro,0,5.97,cancelado
+C040,Protetor,76.35,PayPal,2025-06-15,Porto,6,9.06,entregue
+C041,Hidratante,77.3,Cartão,2025-06-09,Porto,4,10.92,cancelado
+C100,Sérum,74.46,PayPal,2025-07-01,Coimbra,2,10.9,entregue
+C088,Sérum,53.25,Boleto,2025-06-28,Coimbra,4,4.17,em trânsito
+C083,Hidratante,75.33,PayPal,2025-06-12,Porto,1,5.24,entregue
+C039,Sérum,77.89,PayPal,2025-06-19,Lisboa,9,9.0,em trânsito
+C066,Tônico,61.14,Pix,2025-06-07,Faro,7,8.79,cancelado
+C062,Hidratante,78.58,Pix,2025-06-18,Coimbra,10,6.85,cancelado
+C033,Sérum,40.37,PayPal,2025-06-15,Porto,7,3.12,cancelado
+C072,Hidratante,54.89,PayPal,2025-06-17,Porto,2,8.16,cancelado
+C080,Protetor,56.72,Boleto,2025-06-27,Lisboa,1,3.34,em trânsito
+C044,Sérum,54.8,PayPal,2025-06-29,Braga,10,4.77,cancelado
+C015,Sabonete,71.6,Cartão,2025-06-12,Porto,9,9.84,entregue
+C042,Sérum,19.23,Boleto,2025-06-27,Braga,6,0.98,em trânsito
+C032,Sabonete,18.42,Cartão,2025-06-20,Porto,7,2.02,entregue
+C012,Protetor,42.25,PayPal,2025-06-23,Faro,1,4.67,entregue
+C024,Tônico,40.62,Cartão,2025-06-06,Faro,3,2.55,cancelado
+C058,Protetor,76.75,Cartão,2025-07-01,Braga,5,4.29,cancelado
+C013,Sabonete,53.15,Cartão,2025-06-12,Braga,6,7.15,em trânsito
+C089,Tônico,16.95,Boleto,2025-06-10,Coimbra,0,1.6,entregue
+C047,Sabonete,58.28,Pix,2025-06-28,Braga,5,6.76,entregue
+C082,Sabonete,19.86,Boleto,2025-06-13,Coimbra,9,1.32,em trânsito
+C026,Tônico,32.07,Boleto,2025-06-06,Lisboa,7,4.41,em trânsito
+C044,Hidratante,55.22,Boleto,2025-06-30,Braga,0,7.89,entregue
+C034,Sérum,58.46,PayPal,2025-06-24,Lisboa,4,7.93,entregue
+C015,Sérum,55.3,Cartão,2025-06-25,Coimbra,2,8.22,em trânsito
+C063,Sabonete,24.16,Pix,2025-06-16,Lisboa,10,2.7,cancelado
+C033,Protetor,46.13,PayPal,2025-06-24,Braga,9,6.03,em trânsito
+C084,Sabonete,63.44,Boleto,2025-07-01,Lisboa,4,6.15,entregue
+C007,Sérum,23.49,Pix,2025-06-04,Porto,7,1.19,em trânsito
+C091,Sabonete,53.28,PayPal,2025-06-21,Porto,3,5.74,entregue
+C012,Sérum,45.6,Cartão,2025-06-16,Porto,0,3.22,entregue
+C075,Tônico,48.91,PayPal,2025-06-20,Braga,0,4.3,em trânsito
+C047,Sabonete,79.98,Pix,2025-06-17,Coimbra,4,4.6,cancelado
+C007,Protetor,74.57,Boleto,2025-06-28,Braga,1,6.88,cancelado
+C052,Hidratante,16.49,PayPal,2025-06-18,Lisboa,4,1.62,entregue
+C070,Sabonete,71.28,Cartão,2025-06-09,Lisboa,10,9.32,cancelado
+C089,Sérum,79.09,Boleto,2025-06-13,Braga,10,4.82,entregue
+C080,Tônico,42.72,Boleto,2025-06-14,Porto,9,2.84,entregue
+C004,Sérum,69.29,Pix,2025-06-24,Faro,2,7.4,em trânsito
+C080,Sérum,16.9,Boleto,2025-06-17,Faro,8,1.39,entregue
+C056,Sabonete,30.52,Cartão,2025-06-11,Porto,5,3.84,cancelado
+C076,Protetor,15.85,Boleto,2025-06-04,Lisboa,10,2.21,cancelado
+C026,Sérum,41.53,Cartão,2025-07-01,Faro,0,6.09,em trânsito
+C085,Hidratante,71.78,PayPal,2025-06-12,Lisboa,2,3.86,entregue
+C041,Hidratante,79.71,PayPal,2025-06-27,Braga,4,4.84,em trânsito
+C019,Sérum,48.15,Cartão,2025-06-12,Porto,9,5.57,cancelado
+C050,Sérum,22.41,Boleto,2025-06-17,Coimbra,3,3.1,cancelado
+C087,Tônico,61.46,Pix,2025-06-13,Porto,8,4.29,entregue
+C031,Protetor,43.05,Boleto,2025-06-09,Coimbra,9,4.58,em trânsito
+C007,Hidratante,66.46,Cartão,2025-06-02,Faro,1,4.85,entregue
+C075,Sérum,54.73,Pix,2025-06-16,Porto,1,6.27,em trânsito
+C065,Sabonete,74.07,Cartão,2025-06-09,Coimbra,3,6.59,em trânsito
+C052,Tônico,48.53,PayPal,2025-06-07,Coimbra,10,6.2,em trânsito
+C051,Tônico,41.86,Cartão,2025-06-02,Porto,2,2.79,entregue
+C067,Sérum,75.31,Pix,2025-06-01,Porto,4,10.04,cancelado
+C053,Hidratante,43.47,Pix,2025-06-18,Faro,5,4.41,cancelado
+C080,Sabonete,53.82,Pix,2025-06-18,Porto,10,5.0,entregue
+C060,Protetor,17.45,PayPal,2025-06-22,Porto,0,1.62,entregue
+C083,Protetor,49.87,Boleto,2025-06-26,Porto,9,4.87,entregue
+C049,Tônico,75.93,Cartão,2025-06-13,Braga,10,9.27,em trânsito
+C049,Tônico,34.8,Pix,2025-06-13,Braga,0,5.11,cancelado
+C053,Tônico,47.98,Pix,2025-06-13,Lisboa,3,5.38,entregue
+C034,Protetor,16.25,Pix,2025-06-10,Coimbra,5,2.17,em trânsito
+C087,Sabonete,34.63,Pix,2025-06-28,Lisboa,9,1.86,entregue
+C069,Sérum,63.77,PayPal,2025-06-29,Faro,9,4.77,cancelado
+C065,Hidratante,42.71,Cartão,2025-06-06,Lisboa,10,3.36,cancelado
+C022,Sérum,50.21,Boleto,2025-07-01,Faro,7,6.03,entregue
+C094,Sérum,28.43,Cartão,2025-06-15,Porto,7,2.09,entregue
+C085,Hidratante,51.67,Boleto,2025-07-01,Faro,8,5.61,entregue
+C057,Tônico,69.82,PayPal,2025-06-20,Braga,7,10.43,entregue
+C004,Sabonete,19.54,Pix,2025-06-02,Faro,0,1.43,em trânsito
+C071,Sabonete,61.61,Pix,2025-06-28,Coimbra,8,6.03,cancelado
+C072,Protetor,39.63,Pix,2025-06-26,Porto,4,5.7,em trânsito
+C030,Hidratante,27.18,Pix,2025-06-08,Lisboa,7,2.82,entregue
+C045,Tônico,41.73,Boleto,2025-06-06,Lisboa,0,5.52,cancelado
+C002,Hidratante,38.48,Boleto,2025-06-07,Porto,1,4.38,cancelado
+C099,Sabonete,77.62,PayPal,2025-06-20,Faro,0,4.5,entregue
+C036,Sérum,45.11,Pix,2025-07-01,Braga,4,2.83,em trânsito
+C006,Hidratante,55.83,Boleto,2025-06-23,Faro,4,5.62,entregue
+C047,Sabonete,59.07,PayPal,2025-06-15,Faro,3,6.88,cancelado
+C012,Tônico,20.15,Cartão,2025-06-01,Braga,5,2.24,em trânsito
+C035,Tônico,51.64,Boleto,2025-06-20,Porto,7,3.95,cancelado
+C022,Protetor,73.23,PayPal,2025-06-18,Braga,0,10.64,entregue
+C050,Hidratante,60.32,Pix,2025-06-13,Braga,5,3.4,entregue
+C045,Protetor,20.7,Cartão,2025-06-28,Braga,7,1.98,em trânsito
+C059,Sabonete,42.33,Boleto,2025-06-08,Porto,10,2.2,cancelado
+C075,Sabonete,40.97,Pix,2025-06-01,Braga,8,2.82,em trânsito
+C038,Protetor,58.2,Pix,2025-06-18,Braga,4,7.06,cancelado
+C041,Hidratante,60.19,Pix,2025-06-26,Braga,6,8.71,entregue
+C026,Tônico,30.07,Cartão,2025-06-22,Porto,10,3.5,entregue
+C080,Sabonete,59.25,Cartão,2025-06-08,Braga,7,4.97,entregue
+C093,Hidratante,38.5,PayPal,2025-06-27,Lisboa,2,4.57,em trânsito
+C034,Hidratante,76.98,PayPal,2025-06-21,Braga,2,7.09,em trânsito
+C067,Tônico,62.7,Pix,2025-06-22,Coimbra,9,3.73,entregue
+C041,Sabonete,65.9,Cartão,2025-06-18,Faro,10,8.98,em trânsito
+C084,Hidratante,58.68,Boleto,2025-06-04,Coimbra,7,6.68,entregue
+C041,Hidratante,65.25,Cartão,2025-06-16,Lisboa,1,7.58,em trânsito
+C052,Protetor,58.19,Boleto,2025-06-05,Faro,1,6.44,em trânsito
+C083,Sabonete,23.11,Pix,2025-06-12,Coimbra,8,3.16,em trânsito
+C075,Sérum,49.4,Cartão,2025-06-16,Porto,8,6.68,em trânsito
+C056,Protetor,64.05,Cartão,2025-06-02,Lisboa,0,8.03,cancelado
+C037,Hidratante,33.44,Pix,2025-06-26,Braga,3,4.75,entregue
+C095,Tônico,62.92,Boleto,2025-06-09,Faro,8,6.86,cancelado
+C042,Tônico,76.61,PayPal,2025-06-29,Coimbra,4,4.51,cancelado
+C068,Protetor,30.62,Cartão,2025-06-16,Porto,5,2.98,entregue
+C075,Tônico,42.63,Boleto,2025-06-03,Braga,6,4.87,em trânsito
+C076,Sérum,62.54,Cartão,2025-06-07,Faro,5,6.45,cancelado
+C094,Tônico,55.74,Pix,2025-06-21,Lisboa,1,7.96,em trânsito
+C007,Hidratante,53.85,Boleto,2025-06-06,Porto,9,6.41,em trânsito
+C004,Protetor,31.69,Pix,2025-06-13,Braga,3,2.31,cancelado
+C063,Sabonete,32.03,Pix,2025-06-16,Lisboa,0,1.76,entregue
+C075,Sérum,34.88,PayPal,2025-06-04,Coimbra,2,3.09,cancelado
+C039,Protetor,60.9,Pix,2025-06-11,Braga,0,7.58,cancelado
+C065,Tônico,57.44,Boleto,2025-06-02,Faro,3,3.91,em trânsito
+C040,Hidratante,27.13,Cartão,2025-06-12,Faro,10,2.4,cancelado
+C059,Hidratante,36.45,Boleto,2025-06-07,Lisboa,9,2.19,em trânsito
+C049,Protetor,33.31,Boleto,2025-06-02,Faro,5,2.94,entregue
