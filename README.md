@@ -4,7 +4,7 @@
 
 Este projeto é uma análise exploratória de dados de um e-commerce fictício do setor de **produtos de skin care**, com foco em visualização e compreensão do comportamento dos clientes.
 
-O trabalho foi realizado no **Google Colab** utilizando bibliotecas como `pandas`, 'Numpy',`matplotlib`, `seaborn` e `plotly`, e a base de dados foi gerada com inteligência artificialmente com 200 registros simulando transações.
+O trabalho foi realizado no **Google Colab** utilizando bibliotecas como `pandas`, `Numpy`,`matplotlib`, `seaborn` e `plotly`, e a base de dados foi gerada com inteligência artificialmente com 200 registros simulando transações.
 
 ---
 
