@@ -1,4 +1,4 @@
-# projeto-ecommerce-cosmetics
+# projeto-ecommerce-cosmetics.py
 
 # 🛍️ Análise de Dados de E-commerce de Cosméticos
 
