@@ -1,6 +1,6 @@
 # projeto-ecommerce-cosmetics.py
 
-# 🛍️ Análise de Dados de E-commerce de Cosméticos
+# 🛍️ Análise de Dados com Python para um E-commerce de Cosméticos
 
 Este projeto é uma análise exploratória de dados de um e-commerce fictício do setor de **produtos de skin care**, com foco em visualização e compreensão do comportamento dos clientes.
 
